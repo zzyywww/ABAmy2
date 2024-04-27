@@ -6,7 +6,7 @@ you can clone this repository locally:
 ```
 git clone https://github.com/zzyywww/ABAmy2.git 
 cd ABAmy2
-install -r requirements.txt --ignore-installed
+pip install -r requirements.txt --ignore-installed
 ```
 Usage:
 
