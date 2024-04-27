@@ -14,7 +14,7 @@ Usage:
 python ABAmy2.py [inputfile] [outputfile]
 ```
 
-inputfile: Fv region of antibody light chain with .fasta format
+inputfile: **Fv region** of antibody light chain with **.fasta** format
 
 outputfile: the predict result
 
